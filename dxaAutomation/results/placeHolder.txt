@@ -1,0 +1,1 @@
+This files purpose is so the "results" folder can be included in the Bitbucket commit.
